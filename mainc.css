@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://static.vecteezy.com/system/resources/previews/002/315/493/non_2x/watercolor-pastel-background-hand-painted-aquarelle-colorful-stains-on-paper-free-vector.jpg);
+    background-size: 100% 100%;
+}
+.colormaq {
+    background-color: darkkhaki;
+}
+.contenedorlogin{
+    background-color:whitesmoke;
+    width: 490px;
+    height: 380px;
+    margin: 370px;
+    margin-top: 50px;
+    border-radius: 5px;
+}
+.cajadetextologin{
+    height: 70px;
+    width: 370px;
+    font-size: 22px;
+    margin-left: 50px;
+    margin-top: 15px;
+    border-radius: 7px;
+}
+.cajabotonlogin{
+    margin-left: 135px;
+    margin-top: 70px;
+ 
+}
